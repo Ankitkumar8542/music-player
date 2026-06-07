@@ -8,8 +8,16 @@
   "icons": [
     {
       "src": "/logo.png",
+<<<<<<< HEAD
       "sizes": "512x512",
       "type": "image/png"
     }
   ]
 }
+=======
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
+>>>>>>> d18c5dd1d465243ed08d745be4aa0dd41f8bfc62
