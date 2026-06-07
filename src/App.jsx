@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef, useCallback } from "react";
 
 // ─── API CONFIG ───────────────────────────────────────────────────────────────
-const BASE_URL = "";
+const BASE_URL = "https://music-app-lu25.onrender.com";
 const api = {
   headers: (isFormData = false) => {
     const h = {};
